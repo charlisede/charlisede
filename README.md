@@ -1,4 +1,4 @@
-# Charles Okayo D'Harrington | Biomolecular Scientist & Aspiring Computational Scientist
+# Charles D'Harrington | Biomolecular Scientist & Aspiring Computational Scientist
 
 ### Bridging the gap between the wet lab and the command line.
 
