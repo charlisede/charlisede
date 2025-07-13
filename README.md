@@ -25,7 +25,7 @@ My work has been focused on translating complex science into real-world impact. 
 
 ### 🧬 What I'm Focused On
 
-* **Upcoming Doctoral Research:** Developing my foundational toolkit in Engineering Mathematics, with a focus on computational design and engineering of antibodies for the treatment of ischemic heart disease.
+* **Upcoming Doctoral Research Preparation:** Developing my foundational toolkit in Engineering Mathematics, with a focus on computational design and engineering of antibodies for the treatment of ischemic heart disease.
 * **Building My Computational Stack:** Actively working through two comprehensive Codecademy career paths:
     * **[Machine Learning/AI Engineer](https://www.codecademy.com/enrolled/paths/machine-learning-engineer):** Mastering everything from supervised/unsupervised learning to deep learning and NLP.
     * **[Full-Stack Engineer](https://www.codecademy.com/career-journey/full-stack-engineer):** Building end-to-end applications with a modern front-end and back-end stack.
