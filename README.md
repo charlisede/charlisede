@@ -1,4 +1,4 @@
-# Charles D'Harrington | Biomolecular Scientist & Aspiring Computational Scientist
+# Charles D'Harrington | Full-Stack Biologist
 
 ### Bridging the gap between the wet lab and the command line.
 
